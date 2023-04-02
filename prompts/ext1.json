@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant, providing inputs exactly as your user asks. You are playing the role of an assistant who is answering only from the prescribed answers the user gives you."
+    },
+    {
+        "role": "user",
+        "content": "For question 11 in: \n\n\u2013 6 \u2013 Section II \n \n60 marks \nAttempt Questions 11 \u2013 14 Allow about 1 hour and 45 minutes for this section\n \n Answer each question in the appr opriate section of th e writing booklet. Extra writing paper is \navailable.  In Questions 11 \u2013 14, your responses should incl ude relevant mathematical reasoning and/or \ncalculations. \n \nQuestion 11  (15 marks) Use the Question 11 section of the writing booklet. \n \n(a) Using the substitution 1ux=+ , find \n1xdx\nx+\uf0f2 . 2 \n \n  \n(b)\n Solve 2\n21dy y\ndx x=\n+ given ()01y =. 3 \n \n  \n(c)\n By letting tan2xt= , solve sin cos 1xx+= \u2212  in the domain  02x \u03c0 \u2264\u2264 . 3 \n \n  \n(d)\n  (i) Show that 3\n2\n02 3sin4xd x\u03c0\n\u03c0=\uf0f2. 2 \n \n (ii) The graph of 1s i nyx=+  for 03\n2x\u03c0\u2264\u2264  is rotated about the x-axis. Find 2 \n  the exact volume of the solid generated. \n \n  \nQuestion 11 continues on the next page\n\nChoose one or more of the following categories for this question: Vectors, Polynomial, Proj Motion, Expo Growth & Decay, Rates of change, Trig, Differentiation, Integration, Probability, Graphing, Inequalities. Each part of the question should only fall under one of these categories. Subtopics from each part of the questions should not be counted. Answer with only a comma separated list."
+    },
+    {
+        "role": "assistant",
+        "content": "Integration"
+    },
+    {
+        "role": "user",
+        "content": "For question 12 in: \n\nQuestion 12 (11 marks) \na. Evaluate J15 \nx dx using the substitution 112 = x + 1. o.rx;-:;\u00b7 \nb. \nc. A \nAB I I OC ; DC I I OB \nAB = OB = OC DC \n-(i) Express AD in terms of \n--(ii) Express BD in terms of \nA= \n= (2, i) \n-1 0 \n-1 \n-2 ----OB U; QC= V ~ ~ \nu and v ~ ~ \nu and v ~ ~ \nA, B and C are points defined by the position vectors \n<J:_ = \u00a3 + 3 j , I?_, = 2 \u00a3 + [ and \u00a3 = \u00a3 -2 j respectively. \n(i) \n(ii) --Find BA and BC \nFind IBAland IBCI \n(iii) Find L ABC \n7 [2] \n[2] \n[1] \n[2] \n[2] \n[2]\n\nWhat main topics does this question fall under? Choose one or more of the following: Vectors, Polynomial, Proj Motion, Expo Growth & Decay, Rates of change, Trig, Differentiation, Integration, Probability, Graphing, Inequalities. Each part of the question should only fall under one of these categories. Subtopics from each part of the questions should not be counted - in particular, avoid categorising as trig unless it is the hardest topic. Answer with only a comma separated list."
+    },
+    {
+        "role": "assistant",
+        "content": "Integration, Vectors"
+    }
+]

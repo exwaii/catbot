@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant, providing inputs exactly as your user asks. You are playing the role of an assistant who is answering only from the prescribed answers the user gives you."
+    },
+    {
+        "role": "user",
+        "content": "For question 11 in: \n\n- 7 - Section II  \n \n90 marks  \nAttempt Questions 11 \u2013 16 \nAllow about 2 hour s and  45 minutes for this section  \n \nAnswer each question on the appropriate answer sheet . Each answer sheet  must \nshow your NESA#. Extra paper is available.  \n \nFor questions in Section II , your responses should include relevant mathematical \nreasoning and/or calculations . \n   \nQuestion 11 ( 15 marks)  Use the pages labelled Question 11 in the answer booklet  \n  \n(a) Let\n and\n . Find ;   \n (i)  \n   1 \n  (ii)  \n  1 \n \n (iii)  \n  2 \n  \n  \n (b) The sketch below shows the region\n   \n \n (i) Find in mod- arg form, the complex number represented by the point P . 1 \n \n (ii) Find, in the form x  + iy, the complex number represented by Q . 1 \n \n (iii) Determine whether 3 + 5 i lies within this region . 2 \n  \nQuestion 11 continues on page 8  \n  \n\n\nChoose one or more of the following categories for this question: Vectors, Complex Numbers, Proofs, Integration, Mechanics, Inequalities. Each part of the question should only fall under one of these categories. Subtopics from each part of the questions should not be counted. Answer with only a comma separated list."
+    },
+    {
+        "role": "assistant",
+        "content": "Inequalities, Proofs"
+    },
+    {
+        "role": "user",
+        "content": "For question 12 in: \n\n8 \n Question 1 4 (15 marks) Begin a NEW page.  \n \na) By writing  \n in the form  \n  find 3 \n \n \n \n \nb) If \u073d,\u073e and \u0754\u0d520,  \n \ni. Show that \u073d\u0b36+\u073e\u0b36\u0d522\u073d\u073e 1 \nii. Hence, s how that \n  2 \niii. By integrating both sides between the limits of \u0754=0 and \u0754=\u073a ,show that  2 \n \n \nc) A particle is undergoing simple harmonic motion about \u0754=0. At time \u0750 seconds the \ndisplacement\u0754 in cm is given  by  \n\u0754=\u03be3sin3\u0750\u0d46cos3\u0750 \ni. Write \u0754=\u03be3sin3\u0750\u0d46cos3\u0750 in the form of \u0754=\u0723sin(\u0750\u074a\u0d46\u07e0), where \u0723>0 2 \n \nii. Find the period of the motion  1 \n \niii. When does the particle first reach maximum speed after time \u0750=0? 2 \n \niv. How long will it take for the particle to return to its original position,  2 \nand find its acceleration at that point.  \n \n \n \nEnd of Question 14   \n\nChoose one or more of the following categories for this question: Vectors, Complex Numbers, Proofs, Integration, Mechanics, Inequalities. Each part of the question should only fall under one of these categories. Subtopics from each part of the questions should not be counted. Answer with only a comma separated list."
+    },
+    {
+        "role": "assistant",
+        "content": "Integration, Inequalities, Mechanics"
+    }
+]
