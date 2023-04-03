@@ -21,11 +21,6 @@ from each page get question number
 use chatgpt to get tags
 make post with title, tags, and question
 
-discord fixer
-
-- implement threads to threads?
-- link to solution post? discussion post?
-
 mr lin's methods of studying
 
 going through past papers is very inefficient
