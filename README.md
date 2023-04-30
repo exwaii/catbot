@@ -1,6 +1,6 @@
 # Past exam paper parser
 
-A project to implement Mr Lin's horizontal/deep stack techniques (shoutout to Mr Lin). It parses past exam paper pdfs and posts each question onto discord. Hopefully modular enough to be used for other purposes.  
+A project to implement Mr Lin's horizontal/deep stack techniques (shoutout to Mr Lin). It parses past exam paper pdfs and create a post for each question on a discord forum. Hopefully modular enough to be used for other purposes. It tags each question with its question number (difficulty) and topics.
 
 ## How to use
 
@@ -38,12 +38,17 @@ You can now run each file normally (with `python3 main.py` etc).
 
     Going through questions by difficulty.  
     Only move on to the next difficulty once you are confident in solving that difficulty. In this case, difficulty is measured by question number, and each question will have a tag of its question number associated with it.
+    
+    <img src="https://user-images.githubusercontent.com/97266459/235349701-a1b7f252-2d65-40cc-8f83-1d1d964a37ea.png" width="800" alt="questions sorted by number/difficulty">
 
 - ### Deep stacking
 
     Going through questions by topic.  
     After going through a few stages of the horizontal stack, you should have an idea of which topics you are weak in. Focus on those topics.  
     Each question will be tagged with its topics, and you can sort questions by their topic instead of question number for this method.
+    
+    <img src="https://user-images.githubusercontent.com/97266459/235349634-e7fca795-5eb1-4bfe-b014-1384c0a360fe.png" width="800" alt="questions sorted by topic">
+
 
 ## How it works
 
