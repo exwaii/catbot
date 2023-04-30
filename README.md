@@ -16,8 +16,6 @@ git version 2.39.2
 $ git clone https://github.com/mrlin/horizontal-stack.git
 ```
 
-The versions don't matter, just make sure you have them installed. Alternatively you can download the code as a zip file instead.  
-
 Install the dependencies from `requirements.txt`:
 
 ``` bash
