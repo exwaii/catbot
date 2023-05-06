@@ -1,6 +1,8 @@
 # Past exam paper parser
 
-A project to implement Mr Lin's horizontal/deep stack techniques (shoutout to Mr Lin). It parses past exam paper pdfs and create a post for each question on a discord forum. Hopefully modular enough to be used for other purposes. It tags each question with its question number (difficulty) and topics.
+Project to implement Mr Lin's horizontal/deep stack techniques (shoutout to Mr Lin). Parses past exam paper pdfs and create a post for each question on a discord forum. 
+
+Hopefully modular enough to be used for other purposes. It tags each question with its question number (difficulty) and topics.
 
 ## How to use
 
